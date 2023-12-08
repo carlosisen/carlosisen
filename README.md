@@ -73,8 +73,8 @@ Ahí entra en juego nuestro amigo Javascript, culpable de todo.
 ## Contacto
 
 <p>
-  <a href="mailto:carlos@devsarrollo.top" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="www.linkedin.com/in/isidro-c-benito" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a href="mailto:carlos@devsarrollo.top" target="_blank"><img height="28" src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/isidro-c-benito" target="_blank"> <img height="28" src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <br />
 
